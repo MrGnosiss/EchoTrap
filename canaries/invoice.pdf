@@ -1,0 +1,1 @@
+echo "Invoice #545 – NulLNet Services Pvt. Ltd." > canaries/invoice.pdf
