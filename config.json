@@ -1,0 +1,5 @@
+{
+  "canary_dir": "./canaries/",
+  "alert_email": "teomiro@myyahoo.com",
+  "log_file": "trap.log"
+}
